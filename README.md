@@ -1,7 +1,8 @@
 # INFO
 Add this link in HTML document to use `jsutil`: 
 [https://cdn.jsdelivr.net/gh/emilhh/jsutil@master/index.js](https://cdn.jsdelivr.net/gh/emilhh/jsutil@master/index.js)
-If any listed functions are not working, use this link to refresh jsdelivr's cache: [Remove Chace](https://purge.jsdelivr.net/gh/emilhh/jsutil@master/index.js)
+
+If any listed functions are not working, [click here](https://purge.jsdelivr.net/gh/emilhh/jsutil@master/index.js) link to refresh jsdelivr's cache. [Clear your browsers cache](chrome://settings/clearBrowserData) if you still have problems.
 
 
 # Functions
