@@ -1,6 +1,6 @@
 # INFO
 Add this link in HTML document to use `jsutil`: 
-[https://cdn.jsdelivr.net/gh/emilhh/jsutil/index.js](https://cdn.jsdelivr.net/gh/emilhh/jsutil/index.js)
+[https://cdn.jsdelivr.net/gh/emilhh/jsutil@master/index.js](https://cdn.jsdelivr.net/gh/emilhh/jsutil@master/index.js)
 
 
 # Functions
