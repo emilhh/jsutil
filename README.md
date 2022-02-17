@@ -1,6 +1,7 @@
-# JSUTIL INFO
+# INFO
 Add this link in HTML document to use `jsutil`: 
-[https://cdn.jsdelivr.net/gh/emilhh/jsutil@master/index.js](https://cdn.jsdelivr.net/gh/emilhh/jsutil@master/index.js)
+[https://cdn.jsdelivr.net/gh/emilhh/jsutil@master/index.js](https://cdn.jsdelivr.net/gh/emilhh/jsutil@latest/index.js)
+If any listed functions are not working, click this link to refresh jsdelivr's cache: [Remove Chace](https://purge.jsdelivr.net/gh/emilhh/jsutil@latest/index.js)
 
 
 # Functions
