@@ -73,3 +73,13 @@ function hex(colour) {
 
     return colour;
 }
+
+function delay(time) {
+    return new Promise(resolve => setTimeout(resolve, time));
+}
+  
+function repeat(times, code) {
+    for(let i = 0; i < times; i++) {
+        code;
+    }
+}

@@ -28,3 +28,9 @@ Add this link in HTML document to use `jsutil`:
 
 ## hex()
 `hex(color)` -> returns the hex code of the color.
+
+## delay()
+`await delay(ms)` -> must be used in an async function, waits given time before executing code beloe.
+
+## repeat()
+`repeat(times, code)` -> repeats the second parameter given times.
