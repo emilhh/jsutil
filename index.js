@@ -79,7 +79,5 @@ function delay(time) {
 }
   
 function repeat(times, code) {
-    for(let i = 0; i < times; i++) {
-        code;
-    }
+    for(let i = 0; i < times; i++) {code}
 }
