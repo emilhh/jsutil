@@ -33,6 +33,3 @@ If any listed functions are not working, [click here](https://purge.jsdelivr.net
 
 ## delay()
 `await delay(ms)` -> must be used in an async function, waits given time before executing code beloe.
-
-## repeat()
-`repeat(times, code)` -> repeats the second parameter given times.
