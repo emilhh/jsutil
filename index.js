@@ -25,9 +25,10 @@ function randomNumber(min, max) {
 }
 
 //DOC
-function element(classOrId) {
+function element(classOrId, index) {
+    if(!index) index = 0;
     if(document.getElementById(classOrId) === null) { 
-        return document.getElementsByClassName(classOrId)[0] 
+        return document.getElementsByClassName(classOrId)[index] 
     } else { return document.getElementById(classOrId) }
 }
 

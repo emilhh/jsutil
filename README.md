@@ -20,7 +20,7 @@ If any listed functions are not working, [click here](https://purge.jsdelivr.net
 `randomNumber(min, max)` -> returns a random number from min to max (Including min and max).
 
 ## element()
-` element(classOrId)` -> returns the first element with the id or class classOrId.
+` element(classOrId, index)` -> returns the first element with the id or class classOrId.
 
 ## goTo()
 `goTo(url)` -> takes the user to the given url.
